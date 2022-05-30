@@ -1,5 +1,5 @@
 # How to install what I need in this course
-Installation
+
 The easiest way to install pandas is to install it as part of the Anaconda distribution, a cross platform distribution for data analysis and scientific computing. This is the recommended installation method for most users.
 
 Instructions for installing from source, PyPI, ActivePython, various Linux distributions, or a development version are also provided.
